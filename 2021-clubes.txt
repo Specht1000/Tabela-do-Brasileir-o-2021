@@ -1,0 +1,100 @@
+AMG
+America-MG
+América Futebol Clube
+Belo Horizonte
+MG
+CAP
+Athletico-PR
+Club Athletico Paranaense
+Curitiba
+PR
+ACG
+Atletico Goianiense
+Atlético Clube Goianiense
+Goiânia
+GO
+CAM
+Atletico-MG
+Clube Atlético Mineiro
+Belo Horizonte
+MG
+BAH
+Bahia
+Esporte Clube Bahia
+Salvador
+BA
+BRA
+Bragantino
+Red Bull Bragantino
+Bragança Paulista
+SP
+CEA
+Ceara
+Ceará Sporting Club
+Fortaleza
+CE
+CHA
+Chapecoense
+Associação Chapecoense de Futebol
+Chapecó
+SC
+COR
+Corinthians
+Sport Club Corinthians Paulista
+São Paulo
+SP
+CEC
+Cuiaba
+Cuiabá Esporte Clube
+Cuiabá
+MT
+FLA
+Flamengo
+Clube de Regatas do Flamengo
+Rio de Janeiro
+RJ
+FLU
+Fluminense
+Fluminense Football Club
+Rio de Janeiro
+RJ
+FOR
+Fortaleza EC
+Fortaleza Esporte Clube
+Fortaleza
+CE
+GRE
+Gremio
+Grêmio Foot-Ball Porto Alegrense
+Porto Alegre
+RS
+INT
+Internacional
+Sport Club Internacional
+Porto Alegre
+RS
+ECJ
+Juventude
+Esporte Clube Juventude
+Caxias do Sul
+RS
+PAL
+Palmeiras
+Sociedade Esportiva Palmeiras
+São Paulo
+SP
+SAN
+Santos
+Santos Futebol Clube
+Santos
+SP
+SAO
+Sao Paulo
+São Paulo Futebol Clube
+São Paulo
+SP
+SPT
+Sport
+Sport Club do Recife
+Recife
+PE

@@ -1,0 +1,88 @@
+1
+Arena Pantanal
+Cuiabá
+MT
+2
+Pituaçu
+Salvador
+BA
+3
+Morumbi
+São Paulo
+SP
+4
+Mineirão
+Belo Horizonte
+MG
+5
+Vila Belmiro
+Santos
+SP
+6
+Maracanã
+Rio de Janeiro
+RJ
+7
+Arena Castelão
+Fortaleza
+CE
+8
+Neo Química Arena
+São Paulo
+SP
+9
+Arena da Baixada
+Curitiba
+PR
+10
+Arena Condá
+Chapecó
+SC
+11
+Beira-Rio
+Porto Alegre
+RS
+12
+Antônio Accioly
+Goiânia
+GO
+13
+Arena do Grêmio
+Porto Alegre
+RS
+14
+Nabi Abi Chedid
+Bragança Paulista
+SP
+15
+Independência
+Belo Horizonte
+MG
+16
+São Januário
+Rio de Janeiro
+RJ
+17
+Allianz Parque
+São Paulo
+SP
+18
+Alfredo Jaconi
+Caxias do Sul
+RS
+19
+Ilha do Retiro
+Recife
+PE
+20
+Raulino de Oliveira
+Volta Redonda
+RJ
+21
+Arena Fonte Nova
+Salvador
+BA
+22
+Arena Pernambuco
+São Lourenço da Mata
+PE
